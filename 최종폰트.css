@@ -1,0 +1,11 @@
+@font-face { 
+    font-family: 'UhBeecharming'; 
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_five@.2.0/UhBeecharming.woff') format('woff'); 
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+* {
+    font-family: 'UhBeecharming';
+}
+
