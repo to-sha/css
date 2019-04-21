@@ -72,7 +72,7 @@
 
 .vote-btn[data-type="up"]:focus::before {
 
-  color: #ead000;
+  color: #5cb85c;
 
 }
 
