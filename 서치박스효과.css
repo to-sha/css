@@ -1,6 +1,6 @@
-/* �˻� â */
+/* °Ë»ö Ã¢ */
 header #right-search-form>input[type='text'] {
-	border: 2px solid var(--color-3);
+	border: 2px solid var(--color-10);
 	transition: .25s;
 }
 header #right-search-form>input[type='text']:hover,
@@ -9,9 +9,9 @@ header #right-search-form>input[type='text']:focus {
 	transition: .25s;
 }
 
-/* �˻� ��ư */
+/* °Ë»ö ¹öÆ° */
 header #right-search-form>#right-search-btn {
-	color: var(--color-3);
+	color: var(--color-10);
 	transition: .25s;
 }
 header #right-search-form>#right-search-btn:hover,
