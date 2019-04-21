@@ -1,6 +1,6 @@
 header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
-    border-radius: 15px;
+    border-radius: 16px;
 
 }
 
@@ -8,7 +8,7 @@ header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
 #main .menu-wrapper>.header {
 
-    border-radius: 15px 15px 0 0;
+    border-radius: 16px 16px 0 0;
 
 }
 
@@ -16,6 +16,6 @@ header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
 #main .menu-wrapper a:nth-last-child(1) {
 
-    border-radius: 0px 0px 15px 15px;
+    border-radius: 0px 0px 16px 16px;
 
 }
