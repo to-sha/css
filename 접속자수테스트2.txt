@@ -1,0 +1,22 @@
+#board-info #viewers-area {
+
+    color: #e05568;
+
+#board-info #viewers-area #viewers:before {
+
+    content: "비밀친구";   
+
+    cursor: text;
+
+}
+
+
+
+#board-info #viewers-area #viewers:after {
+
+    content: "대기중";    
+
+    cursor: text;
+
+}
+
