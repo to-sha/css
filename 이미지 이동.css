@@ -1,0 +1,28 @@
+#board-info {
+
+    overflow: visible;
+
+}
+
+
+
+#board-info #board-info-profile-img{
+
+    float: left !important;
+
+    margin-right: 5px;
+
+    border-radius: 100px;
+
+    border: solid 1px #fdafab;
+
+}
+
+
+
+#board-info #viewers-area {
+
+    float: right;
+
+}
+
