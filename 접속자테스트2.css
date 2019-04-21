@@ -1,6 +1,6 @@
 #board-info #viewers-area #viewers:before {
 
-    content: "Áö±İ ";
+    content: "ì§€ê¸ˆ ";
 
     cursor: text;
 
@@ -14,7 +14,7 @@ color: #e05568;
 
 #board-info #viewers-area #viewers:after {
 
-    content: " ¸íÀÌ ÀÎ»ı ³¶ºñÁß";
+    content: " ëª…ì´ ì¸ìƒ ë‚­ë¹„ì¤‘";
 
     cursor: text;
 
