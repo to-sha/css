@@ -1,0 +1,11 @@
+#board-info #viewers-area #viewers:before {
+
+    content: " 비밀친구 ";    /* 숫자 앞에 들어갈 문구 */
+
+        /* ex) content: "트수 "; */
+
+        /* 출력 시 : 트수 n */
+
+    cursor: text;
+
+}

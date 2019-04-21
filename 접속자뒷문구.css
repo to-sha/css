@@ -1,0 +1,11 @@
+#board-info #viewers-area #viewers:after {
+
+    content: " 명 대기중 ";    /* 숫자 뒤에 들어갈 문구 */
+
+        /* ex) content: "명 접속중"; */
+
+        /* 출력시 : n명 접속중 */
+
+    cursor: text;
+
+}
