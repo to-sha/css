@@ -1,0 +1,21 @@
+header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
+
+    border-radius: 15px;
+
+}
+
+
+
+#main .menu-wrapper>.header {
+
+    border-radius: 15px 15px 0 0;
+
+}
+
+
+
+#main .menu-wrapper a:nth-last-child(1) {
+
+    border-radius: 0px 0px 15px 15px;
+
+}
