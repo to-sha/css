@@ -1,4 +1,4 @@
-.vote-btn[data-type="up"] {
+.vote-btn[data-type="down"] {
 
   border: none;
 
@@ -10,7 +10,7 @@
 
 
 
-.vote-btn[data-type="up"]:hover {
+.vote-btn[data-type="down"]:hover {
 
   background: none !important;
 
@@ -18,13 +18,13 @@
 
 
 
-.vote-btn[data-type="up"]::before {
+.vote-btn[data-type="down"]::before {
 
   display: inline-block;
 
   background: white;
 
-  border: solid #ead000 1px;
+  border: solid #e25bce 1px;
 
   float: left;
 
@@ -58,27 +58,9 @@
 
 
 
-.vote-btn[data-type="up"]:hover::before {
+.vote-btn[data-type="down"]:hover::before {
 
-  background: #ead000;
-
-  color: white;
-
-}
-
-
-
-
-
-.vote-btn[data-type="up"]:focus::before {
-
-  color: #ead000;
-
-}
-
-
-
-.vote-btn[data-type="up"]:focus:hover::before {
+  background: #e25bce;
 
   color: white;
 
@@ -86,7 +68,25 @@
 
 
 
-.vote-btn[data-type="up"] span {
+
+
+.vote-btn[data-type="down"]:focus::before {
+
+  color: #e25bce;
+
+}
+
+
+
+.vote-btn[data-type="down"]:focus:hover::before {
+
+  color: white;
+
+}
+
+
+
+.vote-btn[data-type="down"] span {
 
   float: left;
 
@@ -96,6 +96,6 @@
 
   font-size: 22px;
 
-  color: #ead000;
+  color: #e25bce;
 
 }
