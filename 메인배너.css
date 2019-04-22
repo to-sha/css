@@ -1,7 +1,7 @@
 #main #main-content>div.frame {
 
-    border-top: 5px solid # !important; /* ¸ŞÀÎ ¹è³Ê Å×µÎ¸® */
+    border-top: 5px solid # !important; /* ë©”ì¸ ë°°ë„ˆ í…Œë‘ë¦¬ */
 
-    border: 1px solid #0086cd; /* ¸ŞÀÎ ¹è³Ê Å×µÎ¸® */
+    border: 1px solid #transparent; /* ë©”ì¸ ë°°ë„ˆ í…Œë‘ë¦¬ */
 
 }
