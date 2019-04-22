@@ -1,4 +1,4 @@
-/* �ΰ� */
+/* ·Î°í */
 
 
 
@@ -10,7 +10,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url() no-repeat; /* url(https://cdn.discordapp.com/attachments/556286103238344727/569833786259537920/89151f2a591fb67c.png) */
+    background: url(https://cdn.discordapp.com/attachments/556286103238344727/569833786259537920/89151f2a591fb67c.png) no-repeat; /* url() */
 
     background-size: auto 50px;
 
