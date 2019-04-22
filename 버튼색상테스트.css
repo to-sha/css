@@ -1,0 +1,27 @@
+/* button color animations */
+
+.btn-primary { border: 0px; animation: infinite rainbowLinkBG 3s; }
+
+
+
+/* keyframes */
+
+@keyframes rainbowLinkBG {
+
+    000% { background-color: var(); }
+
+    015% { background-color: var(#d13062); }
+
+    030% { background-color: var(#0086cd); }
+
+    045% { background-color: var(#d13062); }
+
+    060% { background-color: var(#0086cd); }
+
+    075% { background-color: var(#d13062); }
+
+    090% { background-color: var(#0086cd); }
+
+    100% { background-color: var(#d13062); }
+
+}
