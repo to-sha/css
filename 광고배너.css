@@ -1,4 +1,4 @@
-/* ¹è³Ê */
+/* ë°°ë„ˆ */
 
 header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
@@ -6,22 +6,22 @@ header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
 }
 
-/* ±¤°í ¹è³Ê */
+/* ê´‘ê³  ë°°ë„ˆ */
 
 header #header-bar>.row {
 
-    border-top: 5px solid # !important; /* ±¤°í ¹è³Ê Å×µÎ¸® »ö */
+    border-top: 5px solid # !important; /* ê´‘ê³  ë°°ë„ˆ í…Œë‘ë¦¬ ìƒ‰ */
 
 
 
-    border: 1px solid #0086cd; /* ±¤°í ¹è³Ê Å×µÎ¸® »ö */
+    border: 1px solid #0086cd; /* ê´‘ê³  ë°°ë„ˆ í…Œë‘ë¦¬ ìƒ‰ */
 
 }
 
-/* ±¤°í ¹è³Ê ±¤°í ¹îÁö */
+/* ê´‘ê³  ë°°ë„ˆ ê´‘ê³  ë±ƒì§€ */
 
 header #header-bar #header-top-notice strong.notice-badge {
 
-    background: #ffffff; /* ±¤°í ¹è³Ê ±¤°í ¹îÁö ¹è°æ »ö»ó */
+    background: #0086cd; /* ê´‘ê³  ë°°ë„ˆ ê´‘ê³  ë±ƒì§€ ë°°ê²½ ìƒ‰ìƒ */
 
 }
