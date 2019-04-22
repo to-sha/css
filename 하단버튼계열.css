@@ -1,0 +1,68 @@
+/* 인기글 버튼 */
+
+
+
+#article-list #article-list-menu>.btn.best {
+
+    border-radius: 15px;
+
+}
+
+
+
+/* 설정 버튼 */
+
+
+
+#article-list #article-list-menu>.btn.cog {
+
+    border-radius: 15px;
+
+}
+
+
+
+/* 삭제 버튼 */
+
+
+
+#article-list #article-list-menu>.btn.del {
+
+    border-radius: 15px;
+
+}
+
+
+
+/* 글 쓰기 버튼 */
+
+
+
+#article-list #article-list-menu>.btn.write {
+
+    border-radius: 15px;
+
+}
+
+
+
+
+
+/* 목록 버튼 */
+
+
+
+.btn {
+
+    border-radius: 15px;
+
+}
+
+
+
+.btn-group-sm>.btn, .btn-sm {
+
+    border-radius: 15px;
+
+}
+
