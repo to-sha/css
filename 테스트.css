@@ -1,0 +1,17 @@
+:root {
+
+       --bgColor: #B778FF;   /* 배경 색 */
+
+     --mainColor: #5C1DB5;   /* 메인 컬러 */
+
+    --mainColor5: #A566FF; /* 공지, 인기글 hover */
+
+    --mainColor3: #D9D6FF; /* 공지, 인기글 */
+
+    --mainColor2: #FFFDFF; /* 트게더 메뉴, 게시글 hover */
+
+    --logoURL: url(https://cdn.discordapp.com/attachments/556286103238344727/569819311405924362/bde4f90702047f0924b8e642532dc6a4.png);
+
+    --logoWidth: 200px;     /* 로고 너비 */
+
+}
