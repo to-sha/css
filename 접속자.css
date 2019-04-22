@@ -8,7 +8,7 @@
 
 #board-info #viewers-area #viewers:before {
 
-    content: "친구 ";    /* 숫자 앞에 들어갈 문구 */
+    content: " 친구 ";    /* 숫자 앞에 들어갈 문구 */
 
         /* ex) content: "트수 "; */
 
