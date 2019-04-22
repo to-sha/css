@@ -1,10 +1,10 @@
-/* ¡¬√¯ πË≥  */
+/* Ï¢åÏ∏° Î∞∞ÎÑà */
 
 
 
 #main .menu-wrapper {
 
-    border: 0px solid #000000; /* ¡¬√¯ πË≥  ≈◊µŒ∏Æ ªˆ */
+    border: 0px solid #000000; /* Ï¢åÏ∏° Î∞∞ÎÑà ÌÖåÎëêÎ¶¨ ÏÉâ */
 
     border-top: none !important;
 
@@ -12,13 +12,13 @@
 
 
 
-/* ¡¬√¯ πË≥  «Ï¥ı */
+/* Ï¢åÏ∏° Î∞∞ÎÑà Ìó§Îçî */
 
 
 
 #main .menu-wrapper>.header {
 
-    background: #0086cd; /* ¡¬√¯ πË≥  ¡¶∏Ò πË∞Ê ªˆ */
+    background: #0086cd; /* Ï¢åÏ∏° Î∞∞ÎÑà Ï†úÎ™© Î∞∞Í≤Ω ÏÉâ */
 
     border-radius: 15px 15px 0 0;
 
@@ -26,7 +26,7 @@
 
 
 
-/* ¡¬√¯ πË≥  ∫Û ∞¯∞£ */
+/* Ï¢åÏ∏° Î∞∞ÎÑà Îπà Í≥µÍ∞Ñ */
 
 
 
@@ -38,12 +38,30 @@
 
 
 
-/* ¡¬√¯ πË≥  «œ¥‹ */
+/* Ï¢åÏ∏° Î∞∞ÎÑà ÌïòÎã® */
 
 
 
 #main .menu-wrapper a:nth-last-child(1) {
 
     border-radius: 0px 0px 15px 15px;
+
+}
+
+/* Ï¢åÏ∏° Î∞∞ÎÑà Ïù¥ÎãàÏÖú */
+
+#main .menu-wrapper>a>em {
+
+    color: #0086cd;
+
+}
+
+
+
+/* Ï¢åÏ∏° Î∞∞ÎÑà Ï†ê */
+
+.fa-square:before {
+
+    color: #0086cd;
 
 }
