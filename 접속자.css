@@ -1,6 +1,6 @@
 #board-info #viewers-area {
 
-    color: #002fff; /* Á¢¼ÓÀÚ ¼ö ±Û¾¾ »ö */
+    color: #002fff; /* ì ‘ì†ì ìˆ˜ ê¸€ì”¨ ìƒ‰ */
 
 }
 
@@ -8,11 +8,11 @@
 
 #board-info #viewers-area #viewers:before {
 
-    content: " Ä£±¸ ";    /* ¼ıÀÚ ¾Õ¿¡ µé¾î°¥ ¹®±¸ */
+    content: " ì¹œêµ¬ ";    /* ìˆ«ì ì•ì— ë“¤ì–´ê°ˆ ë¬¸êµ¬ */
 
-        /* ex) content: "Æ®¼ö "; */
+        /* ex) content: "íŠ¸ìˆ˜ "; */
 
-        /* Ãâ·Â ½Ã : Æ®¼ö n */
+        /* ì¶œë ¥ ì‹œ : íŠ¸ìˆ˜ n */
 
     cursor: text;
 
@@ -22,11 +22,11 @@
 
 #board-info #viewers-area #viewers:after {
 
-    content: " ¸í Á¢¼ÓÁß";    /* ¼ıÀÚ µÚ¿¡ µé¾î°¥ ¹®±¸ */
+    content: " ëª… ì ‘ì†ì¤‘ ";    /* ìˆ«ì ë’¤ì— ë“¤ì–´ê°ˆ ë¬¸êµ¬ */
 
-        /* ex) content: "¸í Á¢¼ÓÁß"; */
+        /* ex) content: "ëª… ì ‘ì†ì¤‘"; */
 
-        /* Ãâ·Â½Ã : n¸í Á¢¼ÓÁß */
+        /* ì¶œë ¥ì‹œ : nëª… ì ‘ì†ì¤‘ */
 
     cursor: text;
 
