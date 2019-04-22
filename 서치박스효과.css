@@ -1,6 +1,6 @@
 /* °Ë»ö Ã¢ */
 header #right-search-form>input[type='text'] {
-	border: 2px solid var(#002fff);
+	border: 2px solid var(--color-3);
 	transition: .25s;
 }
 header #right-search-form>input[type='text']:hover,
@@ -11,7 +11,7 @@ header #right-search-form>input[type='text']:focus {
 
 /* °Ë»ö ¹öÆ° */
 header #right-search-form>#right-search-btn {
-	color: #002fff;
+	color: var(--color-3);
 	transition: .25s;
 }
 header #right-search-form>#right-search-btn:hover,
