@@ -1,5 +1,3 @@
-
-
 #board-info #viewers-area #viewers:before {
 
     content: "친구 ";    /* 숫자 앞에 들어갈 문구 */
@@ -30,5 +28,3 @@
     cursor: text;
 
 }
-
-@import url("https://to-sha.github.io/css/접속자수 - 복사본.css");
