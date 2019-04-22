@@ -1,8 +1,3 @@
-#board-info #viewers-area {
-
-    color: #e05568; /* Á˘źÓŔÚ źö ąŰžž ťö */
-
-}
 
 #board-info #viewers-area #viewers:before {
 
@@ -16,6 +11,11 @@
 
 }
 
+#board-info #viewers-area {
+
+    color: #e05568; /* Á˘źÓŔÚ źö ąŰžž ťö */
+
+}
 
 
 #board-info #viewers-area #viewers:after {
