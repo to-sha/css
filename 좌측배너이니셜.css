@@ -1,0 +1,27 @@
+/* 좌측 배너 이니셜 */
+
+#main .menu-wrapper>a>em {
+
+    color: #0086cd;
+
+}
+
+
+
+/* 좌측 배너 점 */
+
+.fa-square:before {
+
+    color: #0086cd;
+
+}앟
+
+
+
+아래 사진 해결방법
+
+#article-list #article-listcategory {
+
+    border-top: 2px solid #0086cd;
+
+}
