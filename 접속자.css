@@ -4,8 +4,6 @@
 
 }
 
-
-
 #board-info #viewers-area #viewers:before {
 
     content: " 친구 ";    /* 숫자 앞에 들어갈 문구 */
@@ -17,8 +15,6 @@
     cursor: text;
 
 }
-
-
 
 #board-info #viewers-area #viewers:after {
 
