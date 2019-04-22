@@ -1,0 +1,7 @@
+#main #main-content>div.frame {
+
+    border-top: 5px solid # !important; /* 메인 배너 테두리 */
+
+    border: 1px solid #0086cd; /* 메인 배너 테두리 */
+
+}
