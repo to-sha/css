@@ -1,0 +1,23 @@
+#article-list #article-list-category {
+
+    border-top: 2px solid #0086cd; /* 카테고리 위에 길게 있는 선 */
+
+    background: none;
+
+}
+
+
+
+#article-list #article-list-category>a {
+
+    border-bottom: solid; /* 카테고리 색과 같은 색으로 밑에 선 추가 */
+
+    background: none;
+
+}
+
+a.nav-link.active {
+
+    height: 37px;
+
+}
