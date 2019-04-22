@@ -1,0 +1,23 @@
+@keyframes spin {
+
+  from { transform: rotate(360deg); }
+
+  to { transform: rotate(0deg); }
+
+}
+
+
+
+span.a-badge i.fa.fa-star {
+
+    animation: spin 2s infinite linear;
+
+}
+
+
+
+span.a-badge i.fa.fa-star:before {
+
+    content: url(https://cdn.discordapp.com/attachments/556286103238344727/569765186656010261/dcb87735230df056.png);
+
+}
