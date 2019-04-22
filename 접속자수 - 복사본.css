@@ -1,5 +1,31 @@
 #board-info #viewers-area {
 
-    color: #e05568; /* ������ �� �۾� �� */
+    color: #e05568; /* Á˘źÓŔÚ źö ąŰžž ťö */
+
+}
+
+#board-info #viewers-area #viewers:before {
+
+    content: "친구 ";    /* 숫자 앞에 들어갈 문구 */
+
+        /* ex) content: "트수 "; */
+
+        /* 출력 시 : 트수 n */
+
+    cursor: text;
+
+}
+
+
+
+#board-info #viewers-area #viewers:after {
+
+    content: " 명 접속중";    /* 숫자 뒤에 들어갈 문구 */
+
+        /* ex) content: "명 접속중"; */
+
+        /* 출력시 : n명 접속중 */
+
+    cursor: text;
 
 }
