@@ -1,7 +1,12 @@
 #article-list #article-option-area>#article-option-area-toggle-btn {
 
-   border-radius: none;
+   border-radius: 25px;
 
+   top: 20
+   
+   left : 20
+      
+      
    background: none;
 
 }
