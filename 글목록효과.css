@@ -1,5 +1,5 @@
-header #right-search-form>input[type='text']:hover,
-header #right-search-form>input[type='text']:hover {
+header #right-search-form>input[type='text']:focus,
+header #right-search-form>input[type='text']:focus {
 	transform: scale(1.30);
 	transition: .20s;
 
