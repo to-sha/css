@@ -1,6 +1,6 @@
 header #right-search-form>input[type='text']:hover,
 header #right-search-form>input[type='text']:hover {
 	transform: scale(1.30);
-	transition: .25s;
+	transition: .20s;
 
 }
