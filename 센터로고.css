@@ -2,15 +2,15 @@ header .row>div:nth-child(1)>a:after{
 
     position: absolute;
 
-    right: 160px; /* (∑Œ∞Ì ≥ ∫Ò + 15)px */
+    right: 1160px; /* (Î°úÍ≥† ÎÑàÎπÑ + 15)px */
 
         /* ex) left: 160px; */
 
     top: 5px;
 
-    background-image: url(https://cdn.discordapp.com/attachments/556286103238344727/569833786259537920/89151f2a591fb67c.png); /* µÈæÓ∞• ¿ÃπÃ¡ˆ ∞Ê∑Œ */
+    background-image: url(https://cdn.discordapp.com/attachments/556286103238344727/569833786259537920/89151f2a591fb67c.png); /* Îì§Ïñ¥Í∞à Ïù¥ÎØ∏ÏßÄ Í≤ΩÎ°ú */
 
-    background-size: 40px 40px;
+    background-size: 200px 50px;
 
     display: inline-block;
 
