@@ -2,13 +2,13 @@ header .row>div:nth-child(1)>a:after{
 
     position: absolute;
 
-    right: 800; /* (·Î°í ³Êºñ + 15)px */
+    right: 800px; /* (ë¡œê³  ë„ˆë¹„ + 15)px */
 
         /* ex) left: 160px; */
 
     top: 5px;
 
-    background-image: url(https://cdn.discordapp.com/attachments/556286103238344727/569833786259537920/89151f2a591fb67c.png); /* µé¾î°¥ ÀÌ¹ÌÁö °æ·Î */
+    background-image: url(https://cdn.discordapp.com/attachments/556286103238344727/569833786259537920/89151f2a591fb67c.png); /* ë“¤ì–´ê°ˆ ì´ë¯¸ì§€ ê²½ë¡œ */
 
     background-size: 200px 50px;
 
