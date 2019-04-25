@@ -1,0 +1,5 @@
+#article-list>.article-list-row:hover {
+
+    transform: scale(1.005); /* 크기가 커짐 */
+
+    transition: .20s; /* 0.2초에 걸쳐서 부드럽게 애니메이션이 진행 */
