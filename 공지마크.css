@@ -1,2 +1,6 @@
 
-#article-list #article-option-area>#article-option-area-toggle-btn { position: relative; right: 14px; background: none;  }
+#article-list #article-option-area>#article-option-area-toggle-btn { 
+  
+  background: none; 
+  
+  position: relative; right: 14px;   }
