@@ -1,5 +1,5 @@
 #article-list>.article-list-row:hover {
 
-    transform: scale(1.10); /* Å©±â°¡ Ä¿Áü */
+    transform: scale(1.05); /* í¬ê¸°ê°€ ì»¤ì§ */
 
-    transition: .20s; /* 0.2ÃÊ¿¡ °ÉÃÄ¼­ ºÎµå·´°Ô ¾Ö´Ï¸ŞÀÌ¼ÇÀÌ ÁøÇà */
+    transition: .20s; /* 0.2ì´ˆì— ê±¸ì³ì„œ ë¶€ë“œëŸ½ê²Œ ì• ë‹ˆë©”ì´ì…˜ì´ ì§„í–‰ */
