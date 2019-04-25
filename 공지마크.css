@@ -4,3 +4,5 @@
    color: f000000;
 
 }
+
+#article-list #article-option-area>#article-option-area-toggle-btn { position: relative; right: 14px; }
